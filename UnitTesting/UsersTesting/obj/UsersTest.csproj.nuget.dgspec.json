@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatih\\Desktop\\UnitTesting\\UsersTesting\\UsersTest.csproj": {}
+    "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\UsersTesting\\UsersTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatih\\Desktop\\UnitTesting\\UsersTesting\\UsersTest.csproj": {
+    "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\UsersTesting\\UsersTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\UnitTesting\\UsersTesting\\UsersTest.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\UsersTesting\\UsersTest.csproj",
         "projectName": "UsersTest",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\UnitTesting\\UsersTesting\\UsersTest.csproj",
+        "projectPath": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\UsersTesting\\UsersTest.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\UnitTesting\\UsersTesting\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\UsersTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\Users.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\Users.csproj"
+              "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\Users.csproj": {
+                "projectPath": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\Users.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\Users.csproj": {
+    "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\Users.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\Users.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\Users.csproj",
         "projectName": "Users",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\Users.csproj",
+        "projectPath": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\Users.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",

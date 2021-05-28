@@ -11,7 +11,7 @@ namespace Users
     {
         private static string Connection()
         {
-            return @"Data Source = C:\Users\fatih\Desktop\UnitTesting\Users\db.db";
+            return @"Data Source = C:\Users\fatih\Desktop\unit-testing\UnitTesting\Users\db.db";
         }
 
         ///<summary>
@@ -23,6 +23,18 @@ namespace Users
             {
                 var ouput = cnn.Query<User>("SELECT * from klasse");
                 return ouput.ToList();
+            }
+        }
+
+        ///<summary>
+        ///<para>Get en bruger</para>
+        ///</summary>
+        public static User GetStudent(string navn)
+        {
+            using (var cnn = new SqliteConnection(Connection()))
+            {
+                var ouput = cnn.Query<User>("SELECT * from klasse WHERE navn = @navn", new {navn = navn});
+                return ouput.ToList()[0];
             }
         }
 

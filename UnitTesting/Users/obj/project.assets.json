@@ -3521,11 +3521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\Users.csproj",
+      "projectUniqueName": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\Users.csproj",
       "projectName": "Users",
-      "projectPath": "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\Users.csproj",
+      "projectPath": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\Users.csproj",
       "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatih\\Desktop\\UnitTesting\\Users\\obj\\",
+      "outputPath": "C:\\Users\\fatih\\Desktop\\unit-testing\\UnitTesting\\Users\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
